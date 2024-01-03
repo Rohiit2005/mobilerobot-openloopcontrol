@@ -98,12 +98,10 @@ if __name__=='__main__':
 
 https://youtu.be/bn1wympMPjk
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+![mr](https://github.com/Rohiit2005/mobilerobot-openloopcontrol/assets/138849178/c76b950f-a348-4dc7-88b7-79d838664133)
+![mr2](https://github.com/Rohiit2005/mobilerobot-openloopcontrol/assets/138849178/6710f22f-d24b-411e-bba9-5cc880b6b336)
+![mr3](https://github.com/Rohiit2005/mobilerobot-openloopcontrol/assets/138849178/3045824e-745c-4ce2-b5d9-dabfcd00b525)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
